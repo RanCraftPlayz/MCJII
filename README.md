@@ -90,7 +90,7 @@ INPUT_JAR=the location of the Minecraft jar you will be injecting your script in
 
 INPUT_CLASS_MAIN=where the entry point of the programs class package location is the default in a Minecraft jar is `net.minecraft.client.main.Main` so you most likely wont need to change this.
 
-INPUT_CLASS_HACK=the method that your class will be called from
+INJECTION_METHOD=the method that your class will be called from
 
 INPUT_CLASS_HACK=the location to your class file script that you wrote earlier, for example I used `MyScript.class`.
 
